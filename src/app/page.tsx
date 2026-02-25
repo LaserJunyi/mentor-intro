@@ -6,7 +6,7 @@ const mentors = [
   {
     id: 1,
     name: '杨帆',
-    image: '/mentors/image1.jpeg',
+    image: '/mentors/image1.jpg',
     title: '高级技师 · 全国技术能手',
     highlights: ['四川工匠', '四川省技术能手', '国家职业资格健身教练指导师级', '国家体育总局培训师/考评员'],
     experience: '全国职业技能大赛第五名 | 省级大赛一等奖'
@@ -14,7 +14,7 @@ const mentors = [
   {
     id: 2,
     name: '李武',
-    image: '/mentors/image2.jpeg',
+    image: '/mentors/image2.jpg',
     title: '国家级培训师/考评员',
     highlights: ['国家体育总局健身教练培训师', '国家职业资格滑雪教练', '全国卡巴迪运动教练员/裁判员'],
     experience: '2019年深圳市十佳健身教练 | 全国课程设计冠军'
@@ -22,7 +22,7 @@ const mentors = [
   {
     id: 3,
     name: '李文',
-    image: '/mentors/image3.jpeg',
+    image: '/mentors/image3.jpg',
     title: '从业12年资深导师',
     highlights: ['绵阳市体美运动康复工作室创始人', '产后恢复·黄金指南课程研发者', '专攻：产后修复 | 青少年体能 | 精准康复'],
     experience: '丰富一线授课经验 | 省级技能大赛执裁'
@@ -30,7 +30,7 @@ const mentors = [
   {
     id: 4,
     name: '张恒君',
-    image: '/mentors/image4.jpeg',
+    image: '/mentors/image4.jpg',
     title: '副教授',
     highlights: ['全国体育行业职业技能大赛四川省冠军', '美国体能协会NSCA-CSCS体能训练师', '国家职业资格健身教练培训师/考评员', '专攻：青少儿体能 | 运动营养'],
     experience: '多所高校特聘专家 | 全国大赛二等奖'
@@ -38,7 +38,7 @@ const mentors = [
   {
     id: 5,
     name: '付尚友',
-    image: '/mentors/image5.jpeg',
+    image: '/mentors/image5.jpg',
     title: '15年行业经验 · 10000+指导时长',
     highlights: ['ACE美国运动委员会讲师', 'TRX中国区培训导师', 'NASM矫正运动专家CES', 'NASM运动表现提升专家PES'],
     experience: '奥力来健身学院培训导师 | 多项国际认证'
