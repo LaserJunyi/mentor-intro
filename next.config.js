@@ -1,3 +1,4 @@
+// 静态网站导出配置
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
