@@ -42,7 +42,7 @@ const mentors = [
     title: '15年行业经验 · 10000+指导时长',
     highlights: ['ACE美国运动委员会讲师', 'TRX中国区培训导师', 'NASM矫正运动专家CES', 'NASM运动表现提升专家PES'],
     experience: '奥力来健身学院培训导师 | 多项国际认证'
-  }
+  },
     {
     id: 6,
     name: '刘迪',
