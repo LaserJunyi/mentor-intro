@@ -47,8 +47,8 @@ const mentors = [
     id: 6,
     name: '刘迪',
     image: '/mentors/image6.jpg',
-    title: '四川省技术能手',
-    highlights: ['塑刻运动，联合创始人', '训练系统开发项目负责人', '健身教练职业能力测评考评员'],
+    title: '健身教练职业能力测评考评员',
+    highlights: ['塑刻运动，联合创始人', '训练系统开发项目负责人', '健身教练职业能力测评培训师'],
     experience: '百万业绩私教经理 | 安全授课1.7万节'
   }
 ]
