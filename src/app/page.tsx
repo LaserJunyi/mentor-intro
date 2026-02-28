@@ -13,6 +13,22 @@ const mentors = [
   },
   {
     id: 2,
+    name: '付尚友',
+    image: '/mentors/image5.jpg',
+    title: '15年行业经验 · 10000+指导时长',
+    highlights: ['ACE美国运动委员会讲师', 'TRX中国区培训导师', 'NASM矫正运动专家CES', 'NASM运动表现提升专家PES'],
+    experience: '奥力来健身学院培训导师 | 多项国际认证'
+  },
+   { 
+    id: 3,
+    name: '张钧奕',
+    image: '/mentors/image7.jpg',
+    title: '四川省体育行业竞赛冠军',
+    highlights: ['特种体能培训师', 'CFSC功能性力量教练', '健身教练职业能力'],
+    experience: '运动抗衰体系创始人|体育科技公司创始人'
+  }  
+  {
+    id: 4,
     name: '李武',
     image: '/mentors/image2.jpg',
     title: '国家级培训师/考评员',
@@ -20,7 +36,7 @@ const mentors = [
     experience: '2019年深圳市十佳健身教练 | 全国课程设计冠军'
   },
   {
-    id: 3,
+    id: 5,
     name: '李文',
     image: '/mentors/image3.jpg',
     title: '从业12年资深导师',
@@ -28,7 +44,7 @@ const mentors = [
     experience: '丰富一线授课经验 | 省级技能大赛执裁'
   },
   {
-    id: 4,
+    id: 6,
     name: '张恒君',
     image: '/mentors/image4.jpg',
     title: '副教授',
@@ -36,29 +52,13 @@ const mentors = [
     experience: '多所高校特聘专家 | 全国大赛二等奖'
   },
   {
-    id: 5,
-    name: '付尚友',
-    image: '/mentors/image5.jpg',
-    title: '15年行业经验 · 10000+指导时长',
-    highlights: ['ACE美国运动委员会讲师', 'TRX中国区培训导师', 'NASM矫正运动专家CES', 'NASM运动表现提升专家PES'],
-    experience: '奥力来健身学院培训导师 | 多项国际认证'
-  },
-  {
-    id: 6,
+    id: 7,
     name: '刘迪',
     image: '/mentors/image6.jpg',
     title: '健身教练职业能力测评考评员',
     highlights: ['塑刻运动，联合创始人', '训练系统开发项目负责人', '健身教练职业能力测评培训师'],
     experience: '百万业绩私教经理 | 安全授课1.7万节'
-  },
-  { 
-    id: 7,
-    name: '张钧奕',
-    image: '/mentors/image7.jpg',
-    title: '四川省体育行业竞赛冠军',
-    highlights: ['特种体能培训师', 'CFSC功能性力量教练', '健身教练职业能力'],
-    experience: '运动抗衰体系创始人|体育科技公司创始人'
-  }  
+  } 
 ]
 
 function MentorCard({ mentor }: { mentor: typeof mentors[0] }) {
