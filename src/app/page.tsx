@@ -51,13 +51,14 @@ const mentors = [
     highlights: ['塑刻运动，联合创始人', '训练系统开发项目负责人', '健身教练职业能力测评培训师'],
     experience: '百万业绩私教经理 | 安全授课1.7万节'
   },
-  {
+  { 
     id: 7,
     name: '张钧奕',
     image: '/mentors/image7.jpg',
     title: '四川省体育行业竞赛冠军',
     highlights: ['特种体能培训师', 'CFSC功能性力量教练', '健身教练职业能力'],
     experience: '运动抗衰体系创始人|体育科技公司创始人'
+  }  
 ]
 
 function MentorCard({ mentor }: { mentor: typeof mentors[0] }) {
