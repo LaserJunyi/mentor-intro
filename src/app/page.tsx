@@ -24,7 +24,7 @@ const mentors = [
   {
     id: 2,
     name: '付尚友',
-    image: '/mentors/image5.jpg',
+    image: '/mentors/image2.jpg',
     title: '15年行业经验 · 10000+指导时长',
     highlights: ['ACE美国运动委员会讲师', 'TRX中国区培训导师', 'NASM矫正运动专家CES', 'NASM运动表现提升专家PES'],
     experience: '奥力来健身学院培训导师 | 多项国际认证',
@@ -40,7 +40,7 @@ const mentors = [
   {
     id: 3,
     name: '张钧奕',
-    image: '/mentors/image7.jpg',
+    image: '/mentors/image3.jpg',
     title: '四川省体育行业竞赛冠军',
     highlights: ['特种体能培训师', 'CFSC功能性力量教练', '健身教练职业能力'],
     experience: '运动抗衰体系创始人 | 体育科技公司创始人',
@@ -74,7 +74,7 @@ const mentors = [
   {
     id: 5,
     name: '李文',
-    image: '/mentors/image3.jpg',
+    image: '/mentors/image5.jpg',
     title: '从业12年资深导师',
     highlights: ['绵阳市体美运动康复工作室创始人', '产后恢复·黄金指南课程研发者', '专攻：产后修复 | 青少年体能 | 精准康复'],
     experience: '丰富一线授课经验 | 省级技能大赛执裁',
@@ -107,7 +107,7 @@ const mentors = [
   {
     id: 7,
     name: '李武',
-    image: '/mentors/image2.jpg',
+    image: '/mentors/image7.jpg',
     title: '国家级培训师/考评员',
     highlights: ['国家体育总局健身教练培训师', '国家职业资格滑雪教练', '全国卡巴迪运动教练员/裁判员'],
     experience: '2019年深圳市十佳健身教练 | 全国课程设计冠军',
