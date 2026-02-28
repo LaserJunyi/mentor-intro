@@ -26,14 +26,14 @@ const mentors = [
     title: '四川省体育行业竞赛冠军',
     highlights: ['特种体能培训师', 'CFSC功能性力量教练', '健身教练职业能力'],
     experience: '运动抗衰体系创始人|体育科技公司创始人'
-  }  
+  }, 
   {
     id: 4,
-    name: '李武',
-    image: '/mentors/image2.jpg',
-    title: '国家级培训师/考评员',
-    highlights: ['国家体育总局健身教练培训师', '国家职业资格滑雪教练', '全国卡巴迪运动教练员/裁判员'],
-    experience: '2019年深圳市十佳健身教练 | 全国课程设计冠军'
+    name: '张恒君',
+    image: '/mentors/image4.jpg',
+    title: '副教授',
+    highlights: ['全国体育行业职业技能大赛四川省冠军', '美国体能协会NSCA-CSCS体能训练师', '国家职业资格健身教练培训师/考评员', '专攻：青少儿体能 | 运动营养'],
+    experience: '多所高校特聘专家 | 全国大赛二等奖'
   },
   {
     id: 5,
@@ -45,19 +45,19 @@ const mentors = [
   },
   {
     id: 6,
-    name: '张恒君',
-    image: '/mentors/image4.jpg',
-    title: '副教授',
-    highlights: ['全国体育行业职业技能大赛四川省冠军', '美国体能协会NSCA-CSCS体能训练师', '国家职业资格健身教练培训师/考评员', '专攻：青少儿体能 | 运动营养'],
-    experience: '多所高校特聘专家 | 全国大赛二等奖'
-  },
-  {
-    id: 7,
-    name: '刘迪',
+     name: '刘迪',
     image: '/mentors/image6.jpg',
     title: '健身教练职业能力测评考评员',
     highlights: ['塑刻运动，联合创始人', '训练系统开发项目负责人', '健身教练职业能力测评培训师'],
     experience: '百万业绩私教经理 | 安全授课1.7万节'
+  },
+  {
+    id: 7,
+    name: '李武',
+    image: '/mentors/image2.jpg',
+    title: '国家级培训师/考评员',
+    highlights: ['国家体育总局健身教练培训师', '国家职业资格滑雪教练', '全国卡巴迪运动教练员/裁判员'],
+    experience: '2019年深圳市十佳健身教练 | 全国课程设计冠军'
   } 
 ]
 
